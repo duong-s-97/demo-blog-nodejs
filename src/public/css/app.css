@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  height: 100vh; }
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  height: 100%; }
+
+.app {
+  height: 100%; }
+
+.container h1 {
+  color: blue; }
